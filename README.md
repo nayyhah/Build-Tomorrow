@@ -5,8 +5,6 @@
 
 Decipher is a revolutionary tool to help get rid off the linguistic barriers pertaining among the people by providing a unique portal to translate the audio in the videos into the user's preferred language.
 
- > [DECIPHER Product Page](https://nayyhah.github.io/Decipher/)
-
  > [DECIPHER Implementation Video](https://youtu.be/G7GtTPWpFLc)
  
  > [DECIPHER Demo Video](https://youtu.be/mNOibFWrnRU)
