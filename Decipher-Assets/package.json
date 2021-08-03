@@ -38,6 +38,7 @@
             "public/**/*",
             "decipherscript.exe",
             "input_link.txt",
+            ".env",
             "language.txt"
         ],
         "output": "dist"
