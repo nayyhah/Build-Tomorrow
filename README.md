@@ -7,19 +7,17 @@ Decipher is a revolutionary tool to help get rid off the linguistic barriers per
 
  > [DECIPHER WebApp](https://drive.google.com/drive/folders/1Kj14pYZhLOkNpaY5G2cLqHdz-oeetgBc?usp=sharing)
 
- > [DECIPHER Implementation Video](https://www.youtube.com/watch?v=L3rnBu09vU0)
+ > [DECIPHER Implementation Video](https://youtu.be/G7GtTPWpFLc)
  
- > [DECIPHER Demo Video](https://www.youtube.com/watch?v=Z3HrvIjwNeA)
+ > [DECIPHER Demo Video](https://youtu.be/mNOibFWrnRU)
  
+
 ## Positive Impact
 <details>
     <summary><b>Universal Learning Platform :</b> With most of the online tutorials in English and Hindi, the non-native speakers face many difficulties.</summary>
 </details>
 <details>
     <summary><b>Making Education Accessible :</b> Poor people often cannot afford English education which hampers the development of their skill sets.</summary>
-</details>
-<details>
-    <summary><b>Economic Growth :</b> Millions of dollars are spent for producing dubbed versions of videos, making it very costly.</summary>
 </details>
 
 
@@ -48,5 +46,16 @@ With ___60+ distinct languages___ and different accents, Decipher aims to benefi
 - Entertainment industries
 - Sports
 - Language Learning
+
+## Future Scope
+<details>
+    <summary><b>Integrating with online learning platforms :</b> Allows people to sign in using their accounts in learning platforms like Coursera, etc. and translate the audio to the courses they have access to.</summary>
+</details>
+<details>
+    <summary><b>Addition of real-time translation :</b> Aids in eradicating linguistic barriers in online classes and meets, thus allowing students from diverse backgrounds to attend classes.</summary>
+</details>
+<details>
+    <summary><b>Inclusion of sign language :</b> Useful for people with auditory impairments, thus increasing digital accessibility.</summary>
+</details> 
 
 > <i>Get ready to witness the whole world in your eye, in your language, with Decipher!</i> 
