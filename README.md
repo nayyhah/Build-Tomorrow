@@ -1,4 +1,4 @@
-<img src="./Decipher Assets/public/images/decipher_icon.png" alt="Logo" width="500">
+<img src="./Decipher-Assets/public/images/decipher_icon.png" alt="Logo" width="500">
 
 ## DECIPHER | <i>Breaking the Walls of Linguistic Barrier</i>
 
@@ -61,7 +61,7 @@ Development
 
 
 ## Architecture
-<img src="./Decipher Assets/public/images/DecipherArchitecture.png" alt="Logo" width="700">
+<img src="./Decipher-Assets/public/images/DecipherArchitecture.png" alt="Logo" width="700">
 
 ## Outreach
 With ___60+ distinct languages___ and different accents, Decipher aims to benefit at least __80%__ of the world’s population. It can be used in various fields including, but not limited to:
