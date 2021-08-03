@@ -28,21 +28,18 @@ Decipher is a revolutionary tool to help get rid off the linguistic barriers per
 2. Go to the directory of *Decipher Assets* in the cloned directory<br>
 `cd "Decipher/Decipher Assets"`
 
-3. Install the required npm packages:<br>
-`npm install`
-
-4. Run the npm server:<br>
+3. Run the npm server:<br>
 `npm start`
 
-5. Click on the link displayed in the CLI *[(http://localhost:8080/)](http://localhost:8080/)* to go to the Decipher webapp
+4. Click on the link displayed in the CLI *[(http://localhost:8080/)](http://localhost:8080/)* to go to the Decipher webapp
 
-6. Copy the link of the YouTube video that is to be translated
+5. Copy the link of the YouTube video that is to be translated
 
-7. Paste it in Decipher's webapp
+6. Paste it in Decipher's webapp
 
-8. Select the language that the video needs to be translated into
+7. Select the language that the video needs to be translated into
 
-9. Click on covert button
+8. Click on covert button
 
 ## Technology Stack
 Tools and Technologies
