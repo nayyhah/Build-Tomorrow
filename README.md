@@ -20,6 +20,31 @@ Decipher is a revolutionary tool to help get rid off the linguistic barriers per
     <summary><b>Making Education Accessible :</b> Poor people often cannot afford English education which hampers the development of their skill sets.</summary>
 </details>
 
+## Instructions
+### Decipher Webapp - Local deployment
+**Installation of Node.js :** Follow the steps in [npm docs](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/) to install Node.js
+
+1. Clone the [Github repo](https://github.com/nayyhah/Decipher) using<br>
+`git clone https://github.com/nayyhah/Decipher`
+
+2. Go to the directory of *Decipher Assets* in the cloned directory<br>
+`cd "Decipher/Decipher Assets"`
+
+3. Install the required npm packages:<br>
+`npm install`
+
+4. Run the npm server:<br>
+`npm start`
+
+5. Click on the link displayed in the CLI *[(http://localhost:8080/)](http://localhost:8080/)* to go to the Decipher webapp
+
+6. Copy the link of the YouTube video that is to be translated
+
+7. Paste it in Decipher's webapp
+
+8. Select the language that the video needs to be translated into
+
+9. Click on covert button
 
 ## Technology Stack
 Tools and Technologies
