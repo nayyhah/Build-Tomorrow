@@ -17,6 +17,9 @@ Decipher is a revolutionary tool to help get rid off the linguistic barriers per
 <details>
     <summary><b>Making Education Accessible :</b> Poor people often cannot afford English education which hampers the development of their skill sets.</summary>
 </details>
+<details>
+    <summary><b>Economic Growth :</b> Millions of dollars are spent for producing dubbed versions of videos, making it very costly.</summary>
+</details>
 
 ## Instructions
 ### Decipher Webapp - Local deployment
