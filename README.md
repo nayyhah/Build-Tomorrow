@@ -25,8 +25,8 @@ Decipher is a revolutionary tool to help get rid off the linguistic barriers per
 ### Decipher Webapp - Local deployment
 **Installation of Node.js :** Follow the steps in [npm docs](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/) to install Node.js
 
-1. Clone the [Github repo](https://github.com/nayyhah/Decipher) using<br>
-`git clone https://github.com/nayyhah/Decipher`
+1. Clone the [Github repo](https://github.com/nayyhah/Build-Tomorrow) using<br>
+`git clone https://github.com/nayyhah/Build-Tomorrow`
 
 2. Go to the directory of *Decipher-Assets* in the cloned directory<br>
 `cd "Decipher/Decipher-Assets"`
