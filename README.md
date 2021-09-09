@@ -28,8 +28,8 @@ Decipher is a revolutionary tool to help get rid off the linguistic barriers per
 1. Clone the [Github repo](https://github.com/nayyhah/Decipher) using<br>
 `git clone https://github.com/nayyhah/Decipher`
 
-2. Go to the directory of *Decipher Assets* in the cloned directory<br>
-`cd "Decipher/Decipher Assets"`
+2. Go to the directory of *Decipher-Assets* in the cloned directory<br>
+`cd "Decipher/Decipher-Assets"`
 
 3. Run the npm server:<br>
 `npm start`
